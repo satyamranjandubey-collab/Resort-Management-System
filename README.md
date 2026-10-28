@@ -14,3 +14,24 @@ https://satyamranjandubey-collab.github.io/Resort-Management-System/
 
 ## Built With
 HTML, CSS, JavaScript
+
+## About Project
+Smart Resort Operations Console
+
+## SRD Resort — Advanced Edition
+An enhanced web-based Resort Management System built with HTML5, CSS3 and JavaScript. Data is persisted in browser LocalStorage for demonstration purposes.
+
+# Advanced Features
+
+Admin login/session screen
+Dashboard KPIs and revenue chart
+Guest search and city filtering
+Room status and occupancy management
+Date-overlap booking validation
+Check-in, completion and cancellation workflow
+Automatic billing and printable invoices
+Reports and analytics
+Dark mode
+JSON export/import backup
+Activity log and audit trail
+Responsive mobile-friendly interface
